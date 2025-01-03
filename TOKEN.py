@@ -1,0 +1,1 @@
+address = ("localhost", 6666) #задаем ip address и порт сервера
